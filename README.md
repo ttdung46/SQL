@@ -1,5 +1,5 @@
 Hi!
-I will use SQL to calculate E-commerce KPIs:
+Today, I will use SQL to calculate E-commerce KPIs:
   1. Total revenue, total quantity, total order, Average revenue per month, Average revenue per order, Average revenue per quantity
   2. Monthly revenue & Month over Month (MoM) Growth rate(%)
   3. Total customers & average order per customer
