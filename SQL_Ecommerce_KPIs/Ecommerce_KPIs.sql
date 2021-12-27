@@ -1,4 +1,4 @@
-use ecommerce;
+
 --1. Total revenue, total quantity, total order, Average revenue per month, Average revenue per order, Average revenue per quantity
 WITH summarize AS
         (SELECT total_price,
